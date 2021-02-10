@@ -199,7 +199,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 80px;
+  max-height: 80px;    /* defa 40 */
+}
+
+#header .logo-inner img {
+  max-height: 40px;    /* defa 40 */
 }
 
 @media (max-width: 992px) {
@@ -454,8 +458,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 60vh;
-  background: url("../img/vpi/vpi-hero-bg.jpg") top center;
+  height: 75vh;
+  background: url("../img/vpi/vpi-hero-bg.jpg") top left;
   background-size: cover;
   position: relative;
 }
@@ -1254,7 +1258,7 @@ section {
   padding: 0 0 0 0;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 768px) {
   .portfolio-details .portfolio-description h2 {
     width: 100%;
   }
