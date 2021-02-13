@@ -458,7 +458,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 75vh;         /* default 75vh; */
+  height: 100vh;         /* default 75vh; */
   background: url("../img/vpi/vpi-hero-bg.jpg") top left;
   background-size: cover;    /* default: cover; */
   position: relative;
