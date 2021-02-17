@@ -1,3 +1,3 @@
 # Ministerio Vida Plena Internacional
-# Desarrollo WEB.
-# https:ministeriovpi.com
+Desarrollo WEB.
+https://www.ministeriovpi.com
