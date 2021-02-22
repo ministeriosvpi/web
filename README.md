@@ -1,6 +1,5 @@
-# Ministerio Vida Plena Internacional
-Desarrollo WEB
-Version Alfa
+# Página Web - Ministerio Vida Plena Internacional
+### Desarrollo WEB
 
-Notas importantes:
- - El directorio /dev sólo contiene repositorio de archivos. Allí se encuentra la plantilla inicio.html
+### Notas importantes:
+ - El directorio /dev contiene repositorio de archivos. Allí se encuentran las plantillas. Utilizar inicio.html para crear un nuevo archivo .html.
