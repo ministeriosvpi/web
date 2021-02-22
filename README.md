@@ -2,4 +2,4 @@
 ### Desarrollo WEB
 
 ### Notas importantes:
- - El directorio /dev sólo contiene repositorio de archivos. Allí se encuentra la plantilla inicio.html
+ - El directorio /dev contiene repositorio de archivos. Allí se encuentran las plantillas. Utilizar inicio.html para crear un nuevo archivo .html.
