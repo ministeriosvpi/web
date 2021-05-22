@@ -4,5 +4,7 @@
 *.psd
 *.rar
 *.zip
+*.sublime-project
+*.sublime-workspace
 
 dev/
