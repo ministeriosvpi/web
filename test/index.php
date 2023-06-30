@@ -5,33 +5,27 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Ministerios Vida Plena Internacional - Página principal</title>
+  <title>Fundación "El Reino está aquí" - Ministerio Vida Plena Internacional</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="../assets/img/favicon.png" rel="icon">
+  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="../assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="../assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-
-  <!-- Google Ads -->
-  <script data-ad-client="ca-pub-3783384967008146" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-
+  <link href="../assets/css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -40,7 +34,7 @@
   <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
     <div class="container d-flex">
       <div class="contact-info me-auto">
-        <i class="icofont-envelope"></i> <a href="mailto:info@ministeriosvpi.com" target="_blank">info@ministeriosvpi.com</a>  
+        <i class="icofont-envelope"></i> <a href="mailto:info@ministeriovpi.com" target="_blank">info@ministeriovpi.com</a>
         <i class="icofont-whatsapp"></i> <a href="https://wa.me/+584124446916" target="_blank"> +58 412 444 6916</a>
       </div>
       <div class="social-links">
@@ -58,10 +52,11 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <!-- h1 class="logo me-auto"><a href="index.html">Ministerios Vida Plena Internacional<span>.</span></a></h1 -->
+      <!--h1 class="logo me-auto"><a href="index.html">BizLand<span>.</span></a></h1-->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto"><img src="assets/img/vpi/vpi-logo.png" alt=""></a>
+      <a href="../index.html" class="logo-inner me-auto"><img src="../assets/img/vpi/vpi-logo.png" alt=""></a>
 
+      
 
 
 
@@ -72,15 +67,15 @@
       <!-- NAV MENU -->
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Inicio</a></li>
-          <li><a href="donar/index.html">Donar</a></li>
-          <li><a href="#about">Quienes somos</a></li>
-          <li><a href="#services">Servicios</a></li>
-          <li><a href="#ensenanzas">Enseñanzas</a></li>
-          <li><a href="escuela_html/index.html">Escuela online</a></li>
-          <li><a href="#como-llegar">Cómo llegar</a></li>
-          <li><a href="#contact">Contacto</a></li>
-          <li><a href="tienda/index.html">Tienda</a></li>
+          <li class="active"><a href="../index.html">Inicio</a></li>
+          <li><a href="index.html">Donar</a></li>
+          <li><a href="../index.html#about">Quienes somos</a></li>
+          <li><a href="../index.html#services">Servicios</a></li>
+          <li><a href="../index.html#ensenanzas">Enseñanzas</a></li>
+          <li><a href="../escuela_html/index.html">Escuela online</a></li>
+          <li><a href="../index.html#como-llegar">Cómo llegar</a></li>
+          <li><a href="../index.html#contact">Contacto</a></li>
+          <li><a href="../tienda/index.html">Tienda</a></li>
           <li class="drop-down"><a href="#">Enlaces</a>
             <ul>
               <li class="drop-down"><a href="#social">Redes sociales</a>
@@ -91,14 +86,15 @@
                   <li><a href="https://www.instagram.com/iglesiavpi/" target="_blank">Instagram</a></li>
                 </ul>
               </li>
-              <li><a href="fundacion/index.html">Fundación "El Reino está aquí"</a></li>
-              <li><a href="jovenes/index.html">Ministerio de jóvenes</a></li>
-              <li><a href="aliento/index.html">Aliento de vida</a></li>
-              <li><a href="casas/index.html">Casas de paz</a></li>
-              <li><a href="podcast/index.html">Podcast</a></li>
-              <li><a href="noticias/index.html">Noticias</a></li>
-              <!--li><a href="tienda/index.html">Tienda</a></li-->
-              <li><a href="#como-llegar">Visítanos</a></li>
+              <li><a href="../fundacion/index.html">Fundación "El Reino está aquí"</a></li>
+              <!--li><a href="../escuela/index.html">Escuela de formación</a></li-->
+              <li><a href="../jovenes/index.html">Ministerio de jóvenes</a></li>              
+              <li><a href="../aliento/index.html">Aliento de vida</a></li>
+              <!--li><a href="../casas/index.html">Casas de paz</a></li-->
+              <li><a href="../podcast/index.html">Podcast</a></li>
+              <!--li><a href="../tienda/index.html">Tienda</a></li-->
+              <li><a href="../index.html#como-llegar">Visítanos</a></li>
+              <li><a href="../dev/index.html">--</a></li>
             </ul>
           </li>
         </ul>
@@ -117,9 +113,33 @@
   </header><!-- End Header -->
 
 
-  <main id="main">
 
 
+
+
+
+
+
+
+
+  
+
+  <main id="main" data-aos="fade-up">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Fundación "El Reino está aquí"</h2>         <!-- <<<<<<< TÍTULO BARRA A LA IZQUIERDA -->
+          <ol>
+            <li><a href="../index.html">Inicio</a></li>   <!-- <<<<<<<<<<<<<<<<<<<<<<<< BREADCRUMB -->
+            <li>Fundación</li>                            <!-- <<<<<<<<<<<<<<<<<<<<<<<< BREADCRUMB -->
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
 
 
   </main><!-- End #main -->
