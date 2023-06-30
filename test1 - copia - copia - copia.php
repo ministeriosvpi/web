@@ -120,7 +120,7 @@
           <h2>Jóvenes</h2>
           <ol>
             <li><a href="../index.html">Inicio</a></li>
-            <li>Página de pruebas y testing</li>
+            <li>Jóvenes</li>
           </ol>
         </div>
 
@@ -146,13 +146,10 @@
 
 
 
-    <div class="jumbotron jumbotron-fluid">
-      <div class="container">
-        <p class="lead">Prueba de PHP - <a href="test1.php">test1.php</a></p>
-        <p class="lead">Prueba de PHP - <a href="test1.php">test1.php</a></p>
-        <p class="lead">Prueba de PHP - <a href="test1.php">test1.php</a></p>
-      </div>
-    </div>
+
+
+
+
 
 
 
