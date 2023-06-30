@@ -10,8 +10,7 @@
 
 
 
-    <?php echo "The Best PHP Examples"; ?>
-
+    <?php echo "test1.PHP Ejemplo"; ?>
 
 
 
