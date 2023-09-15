@@ -1,0 +1,52 @@
+/*
+ *
+ *
+ *
+-------------------------------------------------------------- 
+ MINISTERIOS VIDA PLENA INT GM CSS custom properties
+--------------------------------------------------------------*/
+
+.correo-principal::after {
+  content: " info@ministeriosvpi.com ";
+}
+
+.telefono-1::after {
+  content: " +58 412-444.6916 ";
+}
+
+.telefono-2::after {
+  content: " +58 412-444.6916 ";
+}
+
+.redes-instagram::after {
+  content: " @iglesiavpi ";
+}
+
+.redes-facebook::after {
+  content: " @facebook ";
+}
+
+.redes-youtube::after {
+  content: " @youtube ";
+}
+
+
+/*--------------------------------------------------------------
+# MINISTERIO DE FAMILIA
+--------------------------------------------------------------*/
+
+
+.correo-familia::after {
+  content: " familia@ministeriosvpi.com ";
+}
+
+.telefono-familia::after {
+  content: " +58 243-000.0000 ";
+}
+
+.redes-familia-instagram::after {
+  content: " @ministeriosvpi.com ";
+}
+
+
+
