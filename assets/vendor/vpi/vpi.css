@@ -30,6 +30,10 @@
   content: " @youtube ";
 }
 
+.date-web-update::after {
+  content: " 09/2023 ";
+}
+
 
 /*--------------------------------------------------------------
 # MINISTERIO DE FAMILIA
@@ -41,7 +45,7 @@
 }
 
 .telefono-familia::after {
-  content: " +58 243-000.0000 ";
+  content: " +58 424-352.2875 ";
 }
 
 .redes-familia-instagram::after {
